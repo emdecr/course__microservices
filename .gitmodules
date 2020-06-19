@@ -1,0 +1,3 @@
+[submodule "s02_blog/client"]
+	path = s02_blog/client
+	url = https://github.com/emdecr/course__microservices.git
